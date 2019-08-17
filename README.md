@@ -6,6 +6,7 @@ This is  my repository with all the stuff from the class "Estructuras de datos a
 * To upload homeworks: [Clase-EDA](https://github.com/Clase-EDA)
 
 **EDA_WORKSPACE**
+
 Exercises to remember the basic Abstract Data Types using recursivity:
 * **Lists:**
     * [Node Class](/DataStructures/List/Node.java)
