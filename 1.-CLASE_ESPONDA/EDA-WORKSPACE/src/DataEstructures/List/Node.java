@@ -1,4 +1,4 @@
-package List; 
+package DataEstructures.List; 
 
 public class Node<T>{
     // ! Attributes
