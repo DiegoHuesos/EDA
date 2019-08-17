@@ -9,4 +9,4 @@ Exercises to remember the basic Abstract Data Types using recursivity:
 * **Lists:**
     * [Node Class](/DataStructures/List/Node.java)
     * [List Class](/DataStructures/List/List.java)
-    * [Method tests](/DataStrucutres/List/TestList.java)Huesoss-MacBook-Pro:EDA_WORKSPACE huesos$ 
+    * [Method tests](/DataStrucutres/List/TestList.java)
