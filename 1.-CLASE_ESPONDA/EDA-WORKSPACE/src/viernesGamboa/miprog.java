@@ -10,7 +10,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-public class leeArchivo2{
+public class miprog{
 	public static void main (String [] args){
 		
 		try{
@@ -32,3 +32,4 @@ public class leeArchivo2{
 		}		
 	}
 }
+

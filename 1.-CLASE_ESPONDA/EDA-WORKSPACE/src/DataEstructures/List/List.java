@@ -79,7 +79,19 @@ public class List<T>{
         }
     }
     
-    
+    //Esponda:
+    public void invierteElEsponda (){
+        invierteElEsponda(head.getNext());
+    }
+    private Node<T> invierteElEsponda (Node<T> actual){
+        if(actual == null)
+            return head.getNext();
+        T temp = actual.getElement();
+        Node <T> nodo = invierteElEsponda(actual.getNext());
+        nodo.setElement(temp);
+        
+        return nodo.getNext();
+    }
     //(E) Elimina elemento RECURSIVO:
     public Node<T> eliminaElemento(T elemento){
         return eliminaElemento(elemento, head.getNext());

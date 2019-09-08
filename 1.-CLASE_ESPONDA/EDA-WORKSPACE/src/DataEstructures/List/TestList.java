@@ -28,6 +28,13 @@ public class TestList{
        System.out.println("Lista invertida por elementos:");
 
        System.out.println("\t" + list1.toString());
+       
+       
+       list1.invierteElEsponda();
+
+       System.out.println("Lista invertida por elementos Esponda:");
+
+       System.out.println("\t" + list1.toString());
         
         /*
         System.out.println("Elemetos recursivo: " + list1.sizeRv());

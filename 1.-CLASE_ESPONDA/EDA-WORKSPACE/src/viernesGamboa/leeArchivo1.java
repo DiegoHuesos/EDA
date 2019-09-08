@@ -1,3 +1,5 @@
+package viernesGamboa;
+
 /*
 *Diego Hernández Delgado
 *CU: 176262
