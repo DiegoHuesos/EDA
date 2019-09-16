@@ -1,0 +1,2 @@
+2n= int( input("Cantidad de pares a sumar:" ) ) 4 for i in range ( n ) : 5 a = input( "\nNumA: ") 6 b = 
+input( "NumB: ") 7 print("Suma: " + str(int(a)+int(b)) )
